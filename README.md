@@ -39,7 +39,7 @@
 
 ### Từ Github
 - Truy cập [chrome://extension](chrome://extension), bật Chế độ nhà phát triển
-- Tải file zip từ Github Release
+- Tải file zip từ [Github Release](https://github.com/alaireselene/hust-assistant/releases)
 - Quay lại trang [chrome://extension](chrome://extension), kéo file zip thả vào để quá trình cài đặt bắt đầu
 - Tận hưởng
 
